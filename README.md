@@ -4,4 +4,5 @@ The technologies used in this project are:
 1. Vanilla JavaScript
 2. HTML5
 3. CSS
-
+ 
+To play the game visit  https://krykck.github.io/Etch-a-Sketch/
